@@ -1,6 +1,6 @@
 # HomeShala
 
-## Overview
+##  Overview
 
  HomeShala Offline Education Web  is a Progressive Web App (PWA) designed to provide educational content for schools with limited internet access.
  This application allows users to access learning materials offline, making education more accessible in regions with connectivity challenges.
